@@ -5,7 +5,7 @@ Hello, I am Tyler Beals, also known as im.ok/MrSpook_e. I am a streamer, coder, 
 [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@im.xk_)
 
 #### 🎮 I also Stream (If Interested. It's not coding related.)
-[![Twitch](./assets/twitch.jpg)](https://www.twitch.tv/mrspook_e)
+[![Twitch](./assets/twitch.svg)](https://www.twitch.tv/mrspook_e)
 
 #### 💻 Code and Technology I use
-![HTML5](./assets/html-5.svg) ![CSS3](./assets/css-3.svg) ![Bootstrap](./assets/bootstrap.svg) ![Javascript](./assets/javascript.svg) ![ReactJS](./assets/reactjs.svg) ![Python](./assets/python.jpg) ![C++](./assets/c-plus-plus.jpg)
+![HTML5](./assets/html-5.svg) ![CSS3](./assets/css-3.svg) ![Bootstrap](./assets/bootstrap.svg) ![Javascript](./assets/javascript.svg) ![ReactJS](./assets/reactjs.svg) ![Python](./assets/python.svg) ![C++](./assets/c-plus-plus.svg)
